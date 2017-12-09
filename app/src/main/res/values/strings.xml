@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BroadCastReceiver_SharedPreference_Notification</string>
+    <string name="name">name</string>
+    <string name="save">Save Name</string>
+    <string name="battery_level">Battery Level</string>
+    <string name="airplane">AirPlane</string>
+    <string name="wifi">WiFi</string>
+    <string name="textviewname">Name</string>
+</resources>
